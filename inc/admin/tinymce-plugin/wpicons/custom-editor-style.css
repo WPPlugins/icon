@@ -1,0 +1,10 @@
+/* CSS Document */
+
+.iconsc {
+display:inline-block !important;
+background: #fefefe url("images/icon-picker.png") no-repeat scroll center center;
+width: 20px !important;
+height: 20px !important;
+cursor:pointer !important;
+box-shadow:none !important;
+}
